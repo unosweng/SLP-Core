@@ -29,3 +29,5 @@ local.properties
 
 train.counts
 train.vocab
+.project
+.classpath
