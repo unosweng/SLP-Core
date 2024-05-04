@@ -5,7 +5,8 @@
 * Testing demo: https://unomail-my.sharepoint.com/:v:/r/personal/myoungkyu_unomaha_edu/Documents/0Research/slp-core-demo/slp-core-v0.2-testing-demo.mov?csf=1&web=1&e=aLwQDS
 ---
 
-* Training Parameters: `train --train train --counter train.counts --vocabulary train.vocab --order 6 -l java --delims --giga`
+* Training Parameters: 
+```train --train train --counter train.counts --vocabulary train.vocab --order 6 -l java --delims --giga```
 ---
 
     [Training result]
@@ -27,7 +28,8 @@
     Vocabulary written
 ---
 
-* Testing Parameters: `test --test test --counter train.counts --vocabulary train.vocab -o 6 --model jm --cache --nested -l java --delims`
+* Testing Parameters: 
+```test --test test --counter train.counts --vocabulary train.vocab -o 6 --model jm --cache --nested -l java --delims```
 ---
 
     [Testing Result]
