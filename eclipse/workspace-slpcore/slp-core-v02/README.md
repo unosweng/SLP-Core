@@ -6,7 +6,8 @@
 ---
 
 * Training Parameters: 
-```train --train train --counter train.counts --vocabulary train.vocab --order 6 -l java --delims --giga```
+    
+    train --train train --counter train.counts --vocabulary train.vocab --order 6 -l java --delims --giga
 ---
 
     [Training result]
