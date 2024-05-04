@@ -1,4 +1,4 @@
-* Parameters: train --train train --counter train.counts --vocabulary train.vocab --order 6 -l java --delims --giga
+* Parameters: `train --train train --counter train.counts --vocabulary train.vocab --order 6 -l java --delims --giga`
 * Train result
 
 Using lexer JavaLexer
@@ -18,7 +18,7 @@ Writing vocabulary to file
 Vocabulary written
 
 
-* Parameters: test --test test --counter train.counts --vocabulary train.vocab -o 6 --model jm --cache --nested -l java --delims
+* Parameters: `test --test test --counter train.counts --vocabulary train.vocab -o 6 --model jm --cache --nested -l java --delims`
 * Test result
 
 Using lexer JavaLexer
