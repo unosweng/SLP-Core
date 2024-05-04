@@ -7,6 +7,7 @@
 * [How to Import Eclipse Project and Add New Implementations with 2 Outputs Counters and Vocabulary](https://unomail-my.sharepoint.com/:v:/g/personal/myoungkyu_unomaha_edu/EZuQXRL13sdAiznZEM6drDgBhK334rwJXoYQCO3BMmPQ8w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=XBcXua){:target="_blank"}
 
 *[OpenAI](https://openai.com){:target="_blank"}
+<a href="https://openai.com" target="_blank">OpenAI</a>
 ---
 
     Right-click on the file src/slp/core/CLI.java that contains the main method.
