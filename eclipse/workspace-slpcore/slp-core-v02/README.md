@@ -4,6 +4,7 @@
 * [Training demo (including Eclipse configuration)](https://unomail-my.sharepoint.com/:v:/g/personal/myoungkyu_unomaha_edu/EaJxymO8QzlCvDhDwIBnLz4BKeoejzT1Cs1YEGGXLU-6dA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Z59owy)
 * [Testing demo](https://unomail-my.sharepoint.com/:v:/g/personal/myoungkyu_unomaha_edu/Eez5XCw3TWVKhQPw73MpC4cB0Rhh51EJeO1pyr5hrgjv5Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=NIPKtm)
 * [How to Add New Implementations](https://unomail-my.sharepoint.com/:v:/g/personal/myoungkyu_unomaha_edu/ET5lof3qjuBCrYStIfkiXA4BifFV5fKj6M1vLXVtnDTxwA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6NzXcf)
+* [How to Import Eclipse Project and Add New Implementations with 2 Outputs Counters and Vocabulary](https://unomail-my.sharepoint.com/:v:/g/personal/myoungkyu_unomaha_edu/EZuQXRL13sdAiznZEM6drDgBhK334rwJXoYQCO3BMmPQ8w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=XBcXua)
 ---
 
     Right-click on the file src/slp/core/CLI.java that contains the main method.
