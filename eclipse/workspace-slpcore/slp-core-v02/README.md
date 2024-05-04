@@ -1,3 +1,4 @@
+* Eclipse RCP-2023-12: https://www.eclipse.org/downloads/packages/release/2023-12/r/eclipse-ide-rcp-and-rap-developers
 * JDK9 (Open JDK9): https://jdk.java.net/archive/
 ---
 
