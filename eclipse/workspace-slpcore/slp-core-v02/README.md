@@ -20,7 +20,7 @@
         Click Run to run your application with these arguments.
 ---
 
-* [Training demo (Eclipse configuration)](https://unomail-my.sharepoint.com/:v:/r/personal/myoungkyu_unomaha_edu/Documents/0Research/slp-core-demo/slp-core-v0.2-training-demo.mov?csf=1&web=1&e=9IYpN4)
+* [Training demo (including Eclipse configuration)](https://unomail-my.sharepoint.com/:v:/r/personal/myoungkyu_unomaha_edu/Documents/0Research/slp-core-demo/slp-core-v0.2-training-demo.mov?csf=1&web=1&e=9IYpN4)
 * [Testing demo](https://unomail-my.sharepoint.com/:v:/r/personal/myoungkyu_unomaha_edu/Documents/0Research/slp-core-demo/slp-core-v0.2-testing-demo.mov?csf=1&web=1&e=aLwQDS)
 ---
 
