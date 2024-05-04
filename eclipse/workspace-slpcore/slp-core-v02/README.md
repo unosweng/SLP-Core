@@ -1,5 +1,5 @@
 * [Eclipse RCP-2023-12](https://www.eclipse.org/downloads/packages/release/2023-12/r/eclipse-ide-rcp-and-rap-developers)
-* JDK9 ([Open JDK9](https://jdk.java.net/archive/) for Mac OSX with Apple silicon)
+* [JDK9](https://www.oracle.com/java/technologies/javase/javase9-archive-downloads.html) ([Open JDK9](https://jdk.java.net/archive/) for Mac OSX with Apple silicon)
 
 * [Training demo (including Eclipse configuration)](https://unomail-my.sharepoint.com/:v:/g/personal/myoungkyu_unomaha_edu/EaJxymO8QzlCvDhDwIBnLz4BKeoejzT1Cs1YEGGXLU-6dA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Z59owy)
 * [Testing demo](https://unomail-my.sharepoint.com/:v:/g/personal/myoungkyu_unomaha_edu/Eez5XCw3TWVKhQPw73MpC4cB0Rhh51EJeO1pyr5hrgjv5Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=NIPKtm)
