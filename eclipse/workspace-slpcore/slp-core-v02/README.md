@@ -2,6 +2,24 @@
 * JDK9 (Open JDK9): https://jdk.java.net/archive/
 ---
 
+    Right-click on the file CLI.java that contains the main method.
+    Run.
+    Confirm HELP info.
+
+    Setting up Run Configurations in Eclipse
+    Open Run Configurations:
+        Right-click on the file CLI.java
+        Navigate to Run As > Run Configurations.... This opens the Run Configurations dialog.
+
+    Set the Program Arguments:
+        With your configuration selected, go to the Arguments tab.
+        In the Program arguments field, you can enter the arguments.
+
+    Apply and Run:
+        Click Apply to save your configuration.
+        Click Run to run your application with these arguments.
+---
+
 * Training demo (Eclipse configuration): https://unomail-my.sharepoint.com/:v:/r/personal/myoungkyu_unomaha_edu/Documents/0Research/slp-core-demo/slp-core-v0.2-training-demo.mov?csf=1&web=1&e=9IYpN4
 * Testing demo: https://unomail-my.sharepoint.com/:v:/r/personal/myoungkyu_unomaha_edu/Documents/0Research/slp-core-demo/slp-core-v0.2-testing-demo.mov?csf=1&web=1&e=aLwQDS
 ---
