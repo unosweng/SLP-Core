@@ -1,8 +1,10 @@
 * JDK9 (Open JDK9): https://jdk.java.net/archive/
+---
+
 * Training demo (Eclipse configuration): https://unomail-my.sharepoint.com/:v:/r/personal/myoungkyu_unomaha_edu/Documents/0Research/slp-core-demo/slp-core-v0.2-training-demo.mov?csf=1&web=1&e=9IYpN4
 * Testing demo: https://unomail-my.sharepoint.com/:v:/r/personal/myoungkyu_unomaha_edu/Documents/0Research/slp-core-demo/slp-core-v0.2-testing-demo.mov?csf=1&web=1&e=aLwQDS
-
 ---
+
 * Parameters: `train --train train --counter train.counts --vocabulary train.vocab --order 6 -l java --delims --giga`
 ---
 
@@ -23,8 +25,8 @@
     Counter written in 1s
     Writing vocabulary to file
     Vocabulary written
-
 ---
+
 * Parameters: `test --test test --counter train.counts --vocabulary train.vocab -o 6 --model jm --cache --nested -l java --delims`
 ---
 
@@ -44,3 +46,4 @@
     Modeling @ file 300 (72408 tokens, 10s), entropy: 3.8238
     Modeling @ file 400 (173907 tokens, 16s), entropy: 4.2560
     Testing complete, modeled 450 files with 225314 tokens yielding average entropy:    4.0277
+---
