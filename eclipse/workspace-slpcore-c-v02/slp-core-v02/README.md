@@ -1,7 +1,6 @@
--
 * Parameters: train --train train --counter train.counts --vocabulary train.vocab --order 6 -l java --delims --giga
 * Train result
--
+
 Using lexer JavaLexer
 Counting at file 1000, tokens processed: 4645672 in 4s
 Counting complete, files: 1520, tokens: 9854086, time: 7s
@@ -19,10 +18,9 @@ Writing vocabulary to file
 Vocabulary written
 
 
--
 * Parameters: test --test test --counter train.counts --vocabulary train.vocab -o 6 --model jm --cache --nested -l java --delims
 * Test result
--
+
 Using lexer JavaLexer
 Retrieving vocabulary from file
 Retrieving counter from file
@@ -36,4 +34,4 @@ Modeling @ file 100 (44005 tokens, 7s), entropy: 2.5272
 Modeling @ file 200 (60885 tokens, 9s), entropy: 3.5339
 Modeling @ file 300 (72408 tokens, 10s), entropy: 3.8238
 Modeling @ file 400 (173907 tokens, 16s), entropy: 4.2560
-Testing complete, modeled 450 files with 225314 tokens yielding average entropy:	4.0277
+Testing complete, modeled 450 files with 225314 tokens yielding average entropy:    4.0277
