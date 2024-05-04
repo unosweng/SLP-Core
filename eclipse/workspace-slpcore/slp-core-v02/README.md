@@ -2,7 +2,7 @@
 * JDK9 (Open JDK9): https://jdk.java.net/archive/
 ---
 
-    Right-click on the file CLI.java that contains the main method.
+    Right-click on the file src/slp/core/CLI.java that contains the main method.
     Run.
     Confirm HELP info.
 
