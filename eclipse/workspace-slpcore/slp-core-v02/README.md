@@ -1,5 +1,8 @@
 * Eclipse RCP-2023-12: https://www.eclipse.org/downloads/packages/release/2023-12/r/eclipse-ide-rcp-and-rap-developers
 * JDK9 (Open JDK9 for Mac OSX with Apple silicon, https://jdk.java.net/archive/)
+
+* [Training demo (including Eclipse configuration)](https://unomail-my.sharepoint.com/:v:/r/personal/myoungkyu_unomaha_edu/Documents/0Research/slp-core-demo/slp-core-v0.2-training-demo.mov?csf=1&web=1&e=9IYpN4)
+* [Testing demo](https://unomail-my.sharepoint.com/:v:/r/personal/myoungkyu_unomaha_edu/Documents/0Research/slp-core-demo/slp-core-v0.2-testing-demo.mov?csf=1&web=1&e=aLwQDS)
 ---
 
     Right-click on the file src/slp/core/CLI.java that contains the main method.
@@ -18,10 +21,6 @@
     Apply and Run:
         Click Apply to save your configuration.
         Click Run to run your application with these arguments.
----
-
-* [Training demo (including Eclipse configuration)](https://unomail-my.sharepoint.com/:v:/r/personal/myoungkyu_unomaha_edu/Documents/0Research/slp-core-demo/slp-core-v0.2-training-demo.mov?csf=1&web=1&e=9IYpN4)
-* [Testing demo](https://unomail-my.sharepoint.com/:v:/r/personal/myoungkyu_unomaha_edu/Documents/0Research/slp-core-demo/slp-core-v0.2-testing-demo.mov?csf=1&web=1&e=aLwQDS)
 ---
 
 Training Parameters: 
