@@ -1,8 +1,9 @@
 * Eclipse RCP-2023-12: https://www.eclipse.org/downloads/packages/release/2023-12/r/eclipse-ide-rcp-and-rap-developers
 * JDK9 (Open JDK9 for Mac OSX with Apple silicon, https://jdk.java.net/archive/)
 
-* [Training demo (including Eclipse configuration)](https://unomail-my.sharepoint.com/:v:/r/personal/myoungkyu_unomaha_edu/Documents/0Research/slp-core-demo/slp-core-v0.2-training-demo.mov?csf=1&web=1&e=9IYpN4)
-* [Testing demo](https://unomail-my.sharepoint.com/:v:/r/personal/myoungkyu_unomaha_edu/Documents/0Research/slp-core-demo/slp-core-v0.2-testing-demo.mov?csf=1&web=1&e=aLwQDS)
+* [Training demo (including Eclipse configuration)](https://unomail-my.sharepoint.com/:v:/g/personal/myoungkyu_unomaha_edu/EaJxymO8QzlCvDhDwIBnLz4BKeoejzT1Cs1YEGGXLU-6dA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Z59owy)
+* [Testing demo](https://unomail-my.sharepoint.com/:v:/g/personal/myoungkyu_unomaha_edu/Eez5XCw3TWVKhQPw73MpC4cB0Rhh51EJeO1pyr5hrgjv5Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=NIPKtm)
+* [How to Add New Implementations](https://unomail-my.sharepoint.com/:v:/g/personal/myoungkyu_unomaha_edu/ET5lof3qjuBCrYStIfkiXA4BifFV5fKj6M1vLXVtnDTxwA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6NzXcf)
 ---
 
     Right-click on the file src/slp/core/CLI.java that contains the main method.
