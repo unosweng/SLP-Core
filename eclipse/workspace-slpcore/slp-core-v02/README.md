@@ -4,8 +4,9 @@
 
 ---
 * Parameters: `train --train train --counter train.counts --vocabulary train.vocab --order 6 -l java --delims --giga`
-* Train result
 ---
+
+    [Train result]
 
     Using lexer JavaLexer
     Counting at file 1000, tokens processed: 4645672 in 4s
@@ -25,8 +26,9 @@
 
 ---
 * Parameters: `test --test test --counter train.counts --vocabulary train.vocab -o 6 --model jm --cache --nested -l java --delims`
-* Test result
 ---
+
+    [Test result]
 
     Using lexer JavaLexer
     Retrieving vocabulary from file
