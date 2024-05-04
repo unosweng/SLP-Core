@@ -1,5 +1,5 @@
 * Eclipse RCP-2023-12: https://www.eclipse.org/downloads/packages/release/2023-12/r/eclipse-ide-rcp-and-rap-developers
-* JDK9 (Open JDK9 for Mac OSX with Apple silicon): https://jdk.java.net/archive/
+* JDK9 (Open JDK9 for Mac OSX with Apple silicon, https://jdk.java.net/archive/)
 ---
 
     Right-click on the file src/slp/core/CLI.java that contains the main method.
